@@ -3,7 +3,7 @@ export const brand = {
   tagline: "Powering Intelligent Systems with Precision Data.",
   email: "info@annotexaai.in",
   phone: "+91 63059 90997",
-  whatsapp: "6305990997",
+  whatsapp: "916305990997",
   location: "Hyderabad, India",
   linkedin: "https://www.linkedin.com/company/annotexa-ai",
   upwork: "#",
